@@ -18,13 +18,6 @@
   <img align="center" alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
 </div><br/>
 
-  ## Estudando atualmente 
-
-  <div style="display: inline_block">
-  <img align="center" alt="js" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=Data-Science&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
-</div><br/>
   
   ## Redes sociais
  
