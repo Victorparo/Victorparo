@@ -4,7 +4,7 @@
 
 -💡 Sou apaixonado por inovações e sempre estou em busca de novas formas de usar a tecnologia para transformar negócios. Acredito que estamos em uma era de constantes mudanças e revoluções tecnológicas, e quero estar na vanguarda dessas transformações.
 
--🌱 Possuo uma mente aberta e estou sempre disposto a aprender. Adoro me desafiar e explorar novos conceitos, ferramentas e metodologias. 
+-🌱 Possuo uma mente aberta e estou sempre disposto a aprender.
 
 -🔧 No mundo profissional, trabalho com aplicações back-end.
 
